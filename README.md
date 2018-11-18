@@ -4,7 +4,9 @@ Algorithm for detecting apparent motion of image objects
 
 <h2><i> Quick start </i></h2>
 
-Project requires opencv and numpy libraries to run
+Project requires <b>opencv</b> and <b>numpy</b> libraries to run
+
+Works stable with <b>Python 3.6.1</b>
 
 <ul>
   <li> Download project </li>
